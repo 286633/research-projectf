@@ -1,0 +1,54 @@
+/*
+=================================================
+HERO SECTION
+=================================================
+*/
+
+.hero-section {
+    background-image: url("img/fishing-boat-5541327_1280.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-section h1{
+   top:-auto; 
+}
+
+/*
+=================================================
+ONE COLUMN
+=================================================
+*/
+
+
+
+.h1{
+ text-align: center;
+ font-weight: 600;
+ font-size:50px; 
+}
+
+.paragraph{
+    font-size:20px;
+    
+    
+}
+
+
+/*
+=================================================
+SKOKIE LAGOONS
+=================================================
+*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 250%;
+    font-size: 20px;
+}
+
+  .paragraph{
+    text-align: left;
+  }
+  
