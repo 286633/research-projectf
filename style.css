@@ -43,20 +43,26 @@ SKOKIE LAGOONS
 */
 
 table {
-    font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 250%;
+    width: 100%;
     font-size: 20px;
+    margin-bottom: 2px;
 
 }
 
-  .paragraph{
-    text-align: left;
-  }
+
   img{
-    height:200px;
+    height:220px;
 
 }
+
+table th, table td {
+  padding: 11px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+
 
 /*
 =================================================
@@ -67,6 +73,11 @@ BECK LAKE
 
 h2 {
   font-size: 55px;
+}
+img{
+  height:250px;
+  width: 400px;
+
 }
 
 /*
@@ -82,7 +93,4 @@ BELLEAU LAKE
 GLENVIEW LAKE
 =================================================
 */
-.paragraph{
-  text-align: left;
-  text-indent: -10px;
-}
+
