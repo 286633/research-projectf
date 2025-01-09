@@ -23,13 +23,14 @@ ONE COLUMN
 
 
 .h1{
- text-align: center;
+  text-align: center;
  font-weight: 600;
  font-size:50px; 
 }
 
 .paragraph{
     font-size:20px;
+   
     
     
 }
@@ -46,6 +47,7 @@ table {
     border-collapse: collapse;
     width: 250%;
     font-size: 20px;
+
 }
 
   .paragraph{
@@ -56,3 +58,13 @@ table {
 
 }
 
+/*
+=================================================
+BECK LAKE
+=================================================
+*/
+
+
+h2 {
+  font-size: 55px;
+}
